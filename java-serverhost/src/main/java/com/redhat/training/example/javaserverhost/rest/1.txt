@@ -1,0 +1,1 @@
+https://api.ap46.prod.nextcle.com:6443/apis/build.openshift.io/v1/namespaces/zpujyq-manage-builds/buildconfigs/jhost/webhooks/zLqBJ4EYdtPyF43Vm-hF/github
